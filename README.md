@@ -1,6 +1,6 @@
 # Data science Job Simulation at British Airways 
 
-Virtual internship programme by British Airways through Forage!
+Virtual job simulation internship programme by British Airways through Forage!
 
 ## Task 1 : 
           - applying webscraping in unstructured data taken from the https://www.airlinequality.com/airline-reviews/british-airways
